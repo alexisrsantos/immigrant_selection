@@ -18,7 +18,7 @@ Data can be accessed through: https://nis.princeton.edu/
 * Sampling weights were applied to produce nationally representative estimates (niswgtsamp1).
 
 ## Code
-The code included in this repository can be used to replicate our data visualization. Data should be requested from the NIS Repository (as described above). 
+The [code](Visualization_ImmigrantHealth_Code_06022022.R) included in this repository can be used to replicate our data visualization. Data should be requested from the NIS Repository (as described above). 
 
 ## Correspondence
 For any issue with the functionality of this script please [create an issue](https://github.com/alexisrsantos/immigrant_selection/issues).
