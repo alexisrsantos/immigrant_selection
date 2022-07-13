@@ -3,17 +3,15 @@
 ## Introduction
 Here, we provide the data and code required for replicating the findings presented in the data visualization below. The visualization illustrates immigrants' heterogeneous perceptions of their health in comparison to the country of origin. We visualize these patterns by self-reported health status for top-five immigrant sending countries included in the New Immigrant Survey (NIS). 
 
-![Visualization](Figure_1.jpg)
+![Visualization](Figure_1_new.jpg)
 
 ## Data 
 ### Data are from the in the New Immigrant Survey - Sections [A (Demographics)](https://nis.princeton.edu/downloads/codebook/Adult/A-adult-codebook.pdf) and [D (Health)](https://nis.princeton.edu/downloads/codebook/Adult/D-adult-codebook.pdf)
 
 Data can be accessed through: https://nis.princeton.edu/
-* While the data are publicly available, the user will need to sign up using their e-mail. 
-* The proccess takes less 24 hours. 
+* While the data are publicly available, the user will need to sign up using their e-mail.
 
 ## Process 
-
 * Respondents are from top-five sending countries (A9Amo).
 * We stratify by self-reported health (d1).
 * We show the distribution of Health compared to those in home country (d112).
