@@ -9,6 +9,8 @@ Here, we provide the data and code required for replicating the findings present
 ### Data are from the in the New Immigrant Survey - Sections [A (Demographics)](https://nis.princeton.edu/downloads/codebook/Adult/A-adult-codebook.pdf) and [D (Health)](https://nis.princeton.edu/downloads/codebook/Adult/D-adult-codebook.pdf)
 
 Data can be accessed through: https://nis.princeton.edu/
+* While the data are publicly available, the user will need to sign up using their e-mail. 
+* The proccess takes less 24 hours. 
 
 ## Process 
 
