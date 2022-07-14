@@ -20,6 +20,11 @@ Data can be accessed through: https://nis.princeton.edu/
 ## Code
 The [code](Visualization_ImmigrantHealth_Code_06022022.R) included in this repository can be used to replicate our data visualization. Data should be requested from the NIS Repository (as described above). 
 
+## Supplemental Figure
+The figure with the original comparative self-reported health items is presented below, and is included in the replication code. 
+
+![Visualization2](Supp_Figure_1.jpg)
+
 ## Correspondence
 For any issue with the functionality of this script please [create an issue](https://github.com/alexisrsantos/immigrant_selection/issues).
 
